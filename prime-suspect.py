@@ -18,4 +18,3 @@ def prime_factorization(num):
         else:
             print(prime_factors(num)[0])
             num = int(num / prime_factors(num)[0])
-            
