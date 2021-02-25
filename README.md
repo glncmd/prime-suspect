@@ -1,5 +1,5 @@
 # prime-suspect
-A small python project where the user enter a number and find all Prime Factors (if there are any) and display them.
+A small python project where the user enters a number, then the script displays all Prime Factors (if there are any).
 
 Sample output:
 ```python
